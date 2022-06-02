@@ -1,0 +1,128 @@
+[{
+  "transaction": {
+    "id": "4f96d896-faa8-5364-af04-50a32d6e4cb7",
+    "user_id": "b920bb80-e214-4b67-8b4c-fca50986a8b7",
+    "datetime": "2022-01-18T22:32:01+00:00",
+    "type": "buy",
+    "ins": [
+      {
+        "asset_quantity": {
+          "asset": {
+            "name": "Ether",
+            "code": "ETH",
+            "type": "Crypto",
+            "uuid": "e2a4af02-92c6-11e9-a5ee-0a290192900c"
+          },
+          "quantity": 0.5
+        },
+        "type": null,
+        "integration": {
+          "name": "ETH Wallet",
+          "type": "blockchain",
+          "uuid": "ca0362e0-7c66-4f9e-b753-74516bbc943a",
+          "user_integration_uuid": "253adbd7-a7ee-4126-8d91-6c6e9f3bcf18"
+        }
+      }
+    ],
+    "outs": [
+      {
+        "asset_quantity": {
+          "asset": {
+            "name": "United States Dollar",
+            "symbol": "$",
+            "code": "USD",
+            "type": "Fiat",
+            "uuid": "e2a4afac-92c6-11e9-a5ee-0a290192900c"
+          },
+          "quantity": 1586.5460392110026
+        },
+        "type": null,
+        "integration": {
+          "name": "ETH Wallet",
+          "type": "blockchain",
+          "uuid": "ca0362e0-7c66-4f9e-b753-74516bbc943a",
+          "user_integration_uuid": "253adbd7-a7ee-4126-8d91-6c6e9f3bcf18"
+        }
+      }
+    ],
+    "rates": {
+      "e2a4af02-92c6-11e9-a5ee-0a290192900c": {
+        "e2a4afac-92c6-11e9-a5ee-0a290192900c": {
+          "asset": {
+            "name": "United States Dollar",
+            "symbol": "$",
+            "code": "USD",
+            "type": "Fiat",
+            "uuid": "e2a4afac-92c6-11e9-a5ee-0a290192900c"
+          },
+          "quantity": 3173.092078422005
+        }
+      }
+    },
+    "fees": null
+  }
+},
+{
+  "transaction": {
+    "id": "4f96d896-faa8-5364-af04-50a32d6e4cb7",
+    "user_id": "b920bb80-e214-4b67-8b4c-fca50986a8b7",
+    "datetime": "2022-01-18T22:32:01+00:00",
+    "type": "buy",
+    "ins": [
+      {
+        "asset_quantity": {
+          "asset": {
+            "name": "Ether",
+            "code": "ETH",
+            "type": "Crypto",
+            "uuid": "e2a4af02-92c6-11e9-a5ee-0a290192900c"
+          },
+          "quantity": 0.5
+        },
+        "type": null,
+        "integration": {
+          "name": "ETH Wallet",
+          "type": "blockchain",
+          "uuid": "ca0362e0-7c66-4f9e-b753-74516bbc943a",
+          "user_integration_uuid": "253adbd7-a7ee-4126-8d91-6c6e9f3bcf18"
+        }
+      }
+    ],
+    "outs": [
+      {
+        "asset_quantity": {
+          "asset": {
+            "name": "United States Dollar",
+            "symbol": "$",
+            "code": "USD",
+            "type": "Fiat",
+            "uuid": "e2a4afac-92c6-11e9-a5ee-0a290192900c"
+          },
+          "quantity": 1586.5460392110026
+        },
+        "type": null,
+        "integration": {
+          "name": "ETH Wallet",
+          "type": "blockchain",
+          "uuid": "ca0362e0-7c66-4f9e-b753-74516bbc943a",
+          "user_integration_uuid": "253adbd7-a7ee-4126-8d91-6c6e9f3bcf18"
+        }
+      }
+    ],
+    "rates": {
+      "e2a4af02-92c6-11e9-a5ee-0a290192900c": {
+        "e2a4afac-92c6-11e9-a5ee-0a290192900c": {
+          "asset": {
+            "name": "United States Dollar",
+            "symbol": "$",
+            "code": "USD",
+            "type": "Fiat",
+            "uuid": "e2a4afac-92c6-11e9-a5ee-0a290192900c"
+          },
+          "quantity": 3173.092078422005
+        }
+      }
+    },
+    "fees": null
+  }
+}]
